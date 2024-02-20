@@ -1,7 +1,7 @@
 # Hola, mi nombre es Natalia Cardoso 👋
 ### Freelance Full-Stack and Web Designer
 
-
+![https://design-wiz.com](./nath_github_profile.png)
 
 SSoy diseñadora gráfica profesional con más de un año de experiencia.
 
