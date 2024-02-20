@@ -35,12 +35,14 @@ A finales de 2023, descubrí mi pasión por el QA Testing y desde entonces he es
 
 ## DesignWiz
 
+![https://design-wiz.com](./design-wiz-banner.png)
 
 #### Una plataforma para freelancers de diseño gráfico que facilita la gestión de proyectos, finanzas y comunicación con clientes.
 [![link-github-1](https://img.shields.io/badge/Revisa%20el%20proyecto%20aqu%C3%AD-181717%3F?style=social&logo=github&logoColor=black&labelColor=101010&color=%23181717)](https://github.com/NathCodeArt/DesignWiz.git)
 
 ## MotherShip
 
+![Mothership-banner](./mothership-banner.png)
 
 #### Aplicativo web que utiliza IA para crear storytelling personalizado para campañas publicitarias.
 [![link-github-2](https://img.shields.io/badge/Revisa%20el%20proyecto%20aqu%C3%AD-181717%3F?style=social&logo=github&logoColor=black&labelColor=101010&color=%23181717)](https://github.com/NathCodeArt/DesignWiz.git)
